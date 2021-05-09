@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #Redes sociales
 
-[Seguime en instagram](https://www.instagram.com/aenyelsongs/){.btn.btn-lg.btn-success}
+[Seguime en instagram](https://www.instagram.com/aenyelsongs/){.btn.btn-success}
 
 https://www.youtube.com/watch?v=ZAhC90efq5c
 
